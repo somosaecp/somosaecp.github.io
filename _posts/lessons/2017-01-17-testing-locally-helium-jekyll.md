@@ -21,6 +21,7 @@ canonical: https://heliumjk.github.io
 {% include JB/setup %}
 Estrategias para el exito empresarial.
 
+<!--more-->
 
 {:.lead}
 Es importante tener en cuenta que existen diversas estrategias en el mundo de los negocios.
@@ -39,6 +40,6 @@ Pues de es el origen para la visión y misión de la empresa, así como la guía
 
 El siguiente diagrama muestra nuestra filosofía de trabajo en AECP basado en el propósito.
 
-<img src="/assets/to/diagrama1.png" alt="alt text" title="Title" /><img src="/assets/to/diagrama1.png" alt="alt text" title="Title" />
+<img src="/assets/diagrama1.png" alt="alt text" title="Title" /><img src="/assets/diagrama1.png" alt="alt text" title="Title" />
 
 ----
