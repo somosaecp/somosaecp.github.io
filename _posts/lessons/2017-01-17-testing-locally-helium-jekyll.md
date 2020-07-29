@@ -16,8 +16,11 @@ js:
 bgcolor: ff5a71
 keywords: emprendimiento,lideres,empresas,asesoramiento
 canonical: https://heliumjk.github.io
+
 ---
 {% include JB/setup %}
+Estrategias para el exito empresarial.
+
 
 {:.lead}
 Es importante tener en cuenta que existen diversas estrategias en el mundo de los negocios.
@@ -35,6 +38,7 @@ En Asesoramiento Empresarial Con Propósito (AECP), lo más importante es el pro
 Pues de es el origen para la visión y misión de la empresa, así como la guía para establecer objetivos asequibles y específicos. El propósito define quien eres, que harás además de porque lo harás. 
 
 El siguiente diagrama muestra nuestra filosofía de trabajo en AECP basado en el propósito.
-----
 
 <img src="/assets/to/diagrama1.png" alt="alt text" title="Title" /><img src="/assets/to/diagrama1.png" alt="alt text" title="Title" />
+
+----
