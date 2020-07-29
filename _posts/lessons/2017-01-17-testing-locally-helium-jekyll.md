@@ -19,7 +19,6 @@ canonical: https://heliumjk.github.io
 ---
 {% include JB/setup %}
 
-----
 {:.lead}
 Es importante tener en cuenta que existen diversas estrategias en el mundo de los negocios.
 Pero, no todas las estrategias aplican a todos los negocios. Estas pueden ser; estrategias competitivas, defensivas u ofensivas, de reducción de costos, de diferenciación y enfoque especifico, por mencionar algunas. 
