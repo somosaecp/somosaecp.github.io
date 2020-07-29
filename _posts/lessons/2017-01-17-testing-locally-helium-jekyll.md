@@ -19,6 +19,7 @@ canonical: https://heliumjk.github.io
 
 ---
 {% include JB/setup %}
+
 {:.lead}
 Estrategias para el exito empresarial.
 
@@ -42,6 +43,6 @@ Pues de es el origen para la visión y misión de la empresa, así como la guía
 {:.lead}
 El siguiente diagrama muestra nuestra filosofía de trabajo en AECP basado en el propósito.
 
-<img src="/assets/diagrama1.png" alt="alt text" title="Title" /
+<img src="/assets/diagrama1.png" alt="alt text" title="Title" />
 
 ----
