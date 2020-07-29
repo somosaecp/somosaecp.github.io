@@ -20,16 +20,15 @@ canonical: https://heliumjk.github.io
 {% include JB/setup %}
 
 ----
-
-----
 {:.lead}
-Ess importante tener en cuenta que existen diversas estrategias en el mundo de los negocios.
+Es importante tener en cuenta que existen diversas estrategias en el mundo de los negocios.
 Pero, no todas las estrategias aplican a todos los negocios. Estas pueden ser; estrategias competitivas, defensivas u ofensivas, de reducción de costos, de diferenciación y enfoque especifico, por mencionar algunas. 
 
-{:.text-sm}
+{:.lead}
 Cada día emprendedoras y emprendedores crean negocios y nuevos conceptos de productos y servicios, lo cual beneficia por una parte al emprendedor y a la sociedad. 
 
-{:.text-sm}
+
+{:.lead}
 Pero, ¿cómo saber que estrategias aplican en un nuevo negocio u proyecto emprendedor? 
 
 {:.lead}
