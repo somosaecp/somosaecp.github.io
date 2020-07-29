@@ -1,6 +1,7 @@
 ---
 layout: post
 category : lessons
+title: Blog samples
 tagline: "How to test your Jekyll site locally"
 tags : [intro, beginner, jekyll, tutorial]
 img : helium-theme-post.jpg
