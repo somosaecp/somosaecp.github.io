@@ -1,13 +1,13 @@
 ---
 layout: post
-category : lessons
+category : Emprendimiento
 tagline: "Using heliumjk.github.io"
 tags : [bootstrap 4, web desing, jekyll]
 img : helium-jekyll.jpg
 img-mobile : 
 img2 : 
 img3 : 
-author : Antonio Trento
+author : Alan Cruz
 title2 : Improve the desing of your blog
 title3 : Make it a full of slides
 css: 

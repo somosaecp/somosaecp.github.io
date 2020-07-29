@@ -16,7 +16,7 @@ keywords: html, css, markdown, jekyll, docs, jekyllthemes, theme
 canonical: https://fullit.github.io
 
 ---
-
+{% include JB/setup %}
 samples usefull when you start write your blog 🎉 🎆.
 
 <!--more-->
