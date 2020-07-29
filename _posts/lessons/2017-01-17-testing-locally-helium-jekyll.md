@@ -1,23 +1,22 @@
 ---
 layout: post
-category : lessons
-title: Blog samples
-tagline: "How to test your Jekyll site locally"
-tags : [intro, beginner, jekyll, tutorial]
+category : Emprendimiento
+title: 10 RECOMENDACIONES PARA EMPRENDEDORES LIDERES
+tagline: "10 RECOMENDACIONES PARA EMPRENDEDORES LIDERES"
+tags : [emprendedor, lideres, emprendimiento, tutorial]
 img : helium-theme-post.jpg
 img-mobile : 
 img2 : 
 img3 : 
-author : Antonio Trento
+author : Alan Cruz
 title2 : 
 title3 : 
 css: 
 js: 
 bgcolor: ff5a71
-keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
+keywords: emprendimiento,lideres,empresas,asesoramiento
 canonical: https://heliumjk.github.io
 ---
-{% include JB/setup %}
 
 In this tutorial I will teach you *how to test your Jekyll Bootstrap3* site locally.
 <!--more-->
