@@ -56,7 +56,7 @@ El siguiente diagrama muestra nuestra filosofía de trabajo en AECP basado en el
 En base a estos dos diagramas se estructura un nuevo negocio, el cual recomendamos ampliamente sea redactado en un plan de negocios.  
 
 <div class="separator" style="clear: both; text-align: center;">
-{:.lead}
+
 **AECP te invita a desarrollar tu plan de negocios a través del PROGRAMA APRENDE A EMPRENDER CON PROPÓSITO.** 
 
 **Una nueva metodología practica para emprendedores, con la que podrán desarrollar una idea en un nuevo modelo de negocio y ponerlo en acción.**
