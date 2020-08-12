@@ -24,9 +24,9 @@ post_limit: 5
 title : AECP
 tagline: Asesoramiento Empresarial con Propósito
 author : 
-  name : Alan Avalos
+  name : AECP
   site: https://aecp.com.mx
-  description : I&#39;m a web master interested in communication applied to web marketing.
+  description : Somos una organización asesora enfocada en dar asistencia y brindar un servicio de asesoría confiable y de calidad para motivar e impulsar el espíritu emprendedor.
   image : social-image.png
   email : asesoramientoempresarialcp@outlook.com
   github : somosaecp
@@ -98,7 +98,7 @@ JB :
   comments :
     provider : disqus
     disqus : 
-      short_name : jeky-new-age
+      short_name : AECP
     #livefyre :
     #  site_id : 
     #intensedebate :
@@ -116,14 +116,8 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-94080000-1'
-    getclicky :
-      site_id :
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
-    piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
-        idsite : '1'                   # the id of the site on Piwik
+        tracking_id : 'UA-175248883-1'
+
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
