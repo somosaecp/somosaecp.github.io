@@ -207,27 +207,27 @@ canonical: https://aecp.com.mx
                 <div class="col-sm-4">
                   <div class="form-group">
                     <i class="contact-icon fa fa-user"></i>
-                    <input type="text" class="form-control" id="name" placeholder="Nombre" required data-error="Ingresa un nombre.">
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Nombre" required data-error="Ingresa un nombre.">
                     <div class="help-block with-errors"></div>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="form-group">
                     <i class="contact-icon fa fa-envelope-o"></i>
-                    <input type="email" class="form-control" id="email" placeholder="Email" required data-error="Ingresa un email.">
+                    <input type="email" class="form-control" id="email" name="_replyto" placeholder="Email" required data-error="Ingresa un email.">
                     <div class="help-block with-errors"></div>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="form-group">
                     <i class="contact-icon fa fa-pencil-square-o"></i>
-                    <input type="text" class="form-control" id="subject" placeholder="Motivo" required data-error="Ingresa un motivo.">
+                    <input type="text" class="form-control" id="subject" name="motivo" placeholder="Motivo" required data-error="Ingresa un motivo.">
                     <div class="help-block with-errors"></div>
                   </div>
                 </div>
                 <div class="col-sm-12">
                   <div class="form-group">
-                    <textarea id="message" rows="8" placeholder="Mesaje" required data-error="Ingresa un mensaje."></textarea>
+                    <textarea id="message" rows="8" placeholder="Mesaje "name="message" required data-error="Ingresa un mensaje."></textarea>
                     <div class="help-block with-errors"></div>
                   </div>
                   <button type="submit" id="form-submit" class="btn btn-common btn-form-submit">Enviar</button>
