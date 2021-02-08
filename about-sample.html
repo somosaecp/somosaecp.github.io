@@ -18,7 +18,7 @@ canonical: https://heliumjk.github.io
         <div class="row">
           <div class="col-md-12">
             <div class="page-header-title">
-              <h2 class="heading-title text-center">Acerca de AECP</h2>
+              <h2 class="heading-title text-center">Acerca de Nosotros</h2>
             </div>
           </div>
         </div>
@@ -138,7 +138,7 @@ canonical: https://heliumjk.github.io
     <div class="mb-60"></div>
 
     <div class="container">
-      <h4 class="sub-title">Facts</h4>
+      <h4 class="sub-title">RESULTADOS</h4>
     </div>
 
     <!-- facts 4col -->
@@ -147,26 +147,82 @@ canonical: https://heliumjk.github.io
         <div class="row">
           <div class="col-sm-6 col-md-3 text-center">
             <i class="fact-icon fa fa-user"></i>
-            <h3 class="timer" id="websites" data-to="560" data-speed="1000">560</h3>
-            <h5 class="fact-title">Happy Clients</h5>
+            <h3 class="timer"  data-to="6" data-speed="1">6</h3>
+            <h5 class="fact-title">Clientes Satisfechos</h5>
           </div>
           <div class="col-sm-6 col-md-3 text-center">
             <i class="fact-icon fa fa-rocket"></i>
-            <h3 class="timer" id="code" data-to="2700" data-speed="1500">2700</h3>
-            <h5 class="fact-title">Project Lanched</h5>
-          </div>
-          <div class="col-sm-6 col-md-3 text-center">
-            <i class="fact-icon fa fa-coffee"></i>
-            <h3 class="timer" id="coffee" data-to="234" data-speed="2000">234</h3>
-            <h5 class="fact-title">Cup of Coffee</h5>
+            <h3 class="timer"  data-to="27" data-speed="15">27</h3>
+            <h5 class="fact-title">Proyectos Concluidos</h5>
           </div>
           <div class="col-sm-6 col-md-3 text-center">
             <i class="fact-icon fa fa-heart"></i>
-            <h3 class="timer" id="emails" data-to="234" data-speed="2500">970</h3>
-            <h5 class="fact-title">Peoples Love</h5>
+            <h3 class="timer"  data-to="70" data-speed="25">70</h3>
+            <h5 class="fact-title">Amor de la gente</h5>
           </div>
         </div>
       </div>
     </section>
     <!-- / facts 4 col -->
     <div class="text-center">Love this UI Kit? Get more Free and Premium <a href="https://uideck.com/products/category/ui-kits/">Bootstrap UI Kits</a> </div>
+
+    <div class="container" id="contact">
+      <div class="row">	      
+              <div class="col-md-8">
+                <h3 class="title-head text-center">Solicita Información</h3>
+                <form  action="https://formspree.io/f/xqkgjwvb" method="POST" class="contact-form" data-toggle="validator">
+                  <div class="row">
+                    <div class="col-sm-4">
+                      <div class="form-group">
+                        <i class="contact-icon fa fa-user"></i>
+                        <input type="text" class="form-control" id="name" name="name" placeholder="Nombre" required data-error="Ingresa un nombre.">
+                        <div class="help-block with-errors"></div>
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="form-group">
+                        <i class="contact-icon fa fa-envelope-o"></i>
+                        <input type="email" class="form-control" id="email" name="_replyto" placeholder="Email" required data-error="Ingresa un email.">
+                        <div class="help-block with-errors"></div>
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="form-group">
+                        <i class="contact-icon fa fa-pencil-square-o"></i>
+                        <input type="text" class="form-control" id="subject" name="motivo" placeholder="Motivo" required data-error="Ingresa un motivo.">
+                        <div class="help-block with-errors"></div>
+                      </div>
+                    </div>
+                    <div class="col-sm-12">
+                      <div class="form-group">
+                        <textarea id="message" rows="8" placeholder="Mesaje "name="message" required data-error="Ingresa un mensaje."></textarea>
+                        <div class="help-block with-errors"></div>
+                      </div>
+                      <button type="submit" id="form-submit" class="btn btn-common btn-form-submit">Enviar</button>
+                      <div id="msgSubmit" class="h3 text-center hidden"></div>
+                      <div class="clearfix"></div>
+                    </div>
+                  </div>
+                </form>
+              </div>
+    
+              <div class="col-md-4" >
+                <h4 class="contact-info-title">AECP</h4>
+                <div class="contact-info">
+                  <address>
+                  <i class="fa fa-map-marker icons cyan-color contact-info-icon"></i>
+                  Miguel Hidalgo #370 Col San José del Barro,
+                  <br>
+                  Soledad de Graciano Sánchez SLP.
+                </address>
+                  <div class="tel-info">
+                    <a href="tel:1800452308"><i class="fa fa-mobile icons cyan-color contact-info-icon"></i>444 867 3333</a>
+                    <a href="tel:+61(8)82343555"><i class="fa fa-mobile icons cyan-color contact-info-icon"></i>444 448 3553</a>
+                  </div>
+                  <a href="mailto:lantoniotrento@gmail.com"><i class="fa fa-envelope-o icons cyan-color contact-info-icon"></i>info@aecp.com.mx</a>
+                  {% include social-block.html %}
+                </div>
+              </div>
+    
+            </div>
+      </div>
